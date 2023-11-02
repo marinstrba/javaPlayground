@@ -25,7 +25,3 @@ Here is a set of exercises to solve the task:
 4. Implement functionality to emulate and debug the loss of  a transfer entry for a user.  
 5. Implement functionality to display all "unacknowledged   transfers" (transactions recorded for one user only).  
 6. Implement functionality to resolve issues with   "unacknowledged transfers" by restoring the lost data.  
-
-## Running the Project
-
-[Provide instructions on how to set up and run the project.]
