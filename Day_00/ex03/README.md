@@ -17,16 +17,16 @@ Once the program has obtained information for each week, it displays a graph on 
 
 ## Example of Program Operation
 
-$ java Main
--> Week 1
--> 4 5 2 4 2
--> Week 2
--> 7 7 7 7 6
--> Week 3
--> 4 3 4 9 8
--> Week 4
--> 9 9 4 6 7
-Week 1 ==>
-Week 2 ======>
-Week 3 ===>
-Week 4 ====>
+$ java Main  
+-> Week 1  
+-> 4 5 2 4 2  
+-> Week 2  
+-> 7 7 7 7 6  
+-> Week 3  
+-> 4 3 4 9 8  
+-> Week 4  
+-> 9 9 4 6 7  
+Week 1 ==>  
+Week 2 ======>  
+Week 3 ===>  
+Week 4 ====>  
