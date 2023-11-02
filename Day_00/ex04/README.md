@@ -20,6 +20,7 @@ $ java Program
 
 ->   AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAASSSSSSSSSSSSSSSSSSSSSSSSDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDWEWWKFKKDKKDSKAKLSLDKSKALLLLLLLLLLRTRTETWTWWWWWWWWWWOOOOOOO42
 
+<pre>
  36  
   #  35  
   #   #
@@ -32,3 +33,4 @@ $ java Program
   #   #   #   #   #   #   7   4  
   #   #   #   #   #   #   #   #   2   2  
   D   A   S   W   L   K   O   T   E   R  
+</pre>
