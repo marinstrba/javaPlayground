@@ -76,7 +76,7 @@ class Main {
       }
     } 
     catch (Exception e) {
-      System.out.println("Mistake occured: " + e.getMessage());
+      System.out.println("Error has occured: " + e.getMessage());
     }
   }
 }
